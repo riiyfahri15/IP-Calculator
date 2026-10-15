@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">IP Calculator</string>
+    <string name="app_title">IP ADDRESS &amp; SUBNET CALCULATOR</string>
+
+    <!-- Mode toggle -->
+    <string name="mode_ipv4">IPv4</string>
+    <string name="mode_ipv6">IPv6</string>
+
+    <!-- IPv4 input labels -->
+    <string name="label_ip_address">IP Address</string>
+    <string name="label_subnet_mask">Subnet Mask</string>
+    <string name="hint_ip_address">e.g. 192.168.1.1</string>
+    <string name="hint_octet">0</string>
+    <string name="label_mask">Mask</string>
+
+    <!-- IPv6 input labels -->
+    <string name="label_ipv6_address">IPv6 Address</string>
+    <string name="hint_ipv6_address">e.g. 2001:db8::1</string>
+    <string name="label_prefix_length">Prefix Length (CIDR)</string>
+    <string name="hint_prefix_length">0–128</string>
+
+    <!-- Button -->
+    <string name="btn_calculate">CALCULATE</string>
+
+    <!-- Result panel -->
+    <string name="result_title">RESULT:</string>
+
+    <!-- IPv4 result labels -->
+    <string name="result_network_id">Network ID</string>
+    <string name="result_broadcast">Broadcast</string>
+    <string name="result_usable_hosts">Usable Hosts</string>
+    <string name="result_first_host">First Host</string>
+    <string name="result_last_host">Last Host</string>
+    <string name="result_cidr_prefix">CIDR Prefix</string>
+    <string name="result_subnet_mask">Subnet Mask</string>
+    <string name="result_wildcard">Wildcard Mask</string>
+
+    <!-- IPv6 result labels -->
+    <string name="result_expanded">Expanded Address</string>
+    <string name="result_network_prefix">Network Prefix</string>
+    <string name="result_address_range">Address Range</string>
+    <string name="result_total_ips">Total IPs</string>
+
+    <!-- Validation messages -->
+    <string name="error_empty_ip">Please enter an IP address</string>
+    <string name="error_invalid_ipv4">Invalid IPv4 address (each octet must be 0–255)</string>
+    <string name="error_invalid_ipv6">Invalid IPv6 address format</string>
+    <string name="error_invalid_prefix_ipv4">Prefix must be between 0 and 32</string>
+    <string name="error_invalid_prefix_ipv6">Prefix must be between 0 and 128</string>
+    <string name="error_empty_prefix">Please enter a prefix length</string>
+    <string name="error_empty_mask">Please enter all subnet mask octets</string>
+    <string name="error_invalid_mask">Invalid subnet mask value (0–255)</string>
+
+    <!-- Placeholder for empty result -->
+    <string name="result_placeholder">—</string>
+</resources>

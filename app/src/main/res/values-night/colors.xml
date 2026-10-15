@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ══════════════════════════════════════════
+         DARK MODE overrides
+         Brand/accent tetap sama (#1565C0 di header,
+         #2196F3 sebagai accent di elemen interaktif)
+    ══════════════════════════════════════════ -->
+
+    <!-- Backgrounds -->
+    <color name="bg_screen">#0D1117</color>
+    <color name="bg_card">#161B27</color>
+    <color name="bg_input">#0D1117</color>
+    <color name="bg_result_row">#0A1020</color>
+    <color name="bg_header">#0D1B3E</color>
+
+    <!-- Segmented button -->
+    <color name="segment_container_bg">#0D1117</color>
+    <color name="segment_container_border">#2196F3</color>
+    <color name="segment_selected_bg">#1565C0</color>
+    <color name="segment_selected_text">#FFFFFF</color>
+    <color name="segment_unselected_text">#64B5F6</color>
+
+    <!-- Text -->
+    <color name="text_primary">#E8EDF5</color>
+    <color name="text_secondary">#78909C</color>
+    <color name="text_hint">#37474F</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_accent">#64B5F6</color>
+
+    <!-- Input field strokes -->
+    <color name="input_stroke_default">#1E2D45</color>
+    <color name="input_stroke_focused">#2196F3</color>
+
+    <!-- Result rows -->
+    <color name="result_label_color">#546E7A</color>
+    <color name="result_value_color">#64B5F6</color>
+    <color name="result_divider_color">#1A2540</color>
+    <color name="result_row_border">#1A2540</color>
+
+    <!-- Card border -->
+    <color name="card_stroke">#1E2D45</color>
+
+    <!-- Status bar / nav bar -->
+    <color name="status_bar_color">#0D1117</color>
+    <color name="nav_bar_color">#0D1117</color>
+
+    <!-- Button -->
+    <color name="btn_text_color">#FFFFFF</color>
+    <color name="btn_ripple_color">#1565C0</color>
+
+    <!-- Dot indicator -->
+    <color name="dot_active">#2196F3</color>
+    <color name="dot_inactive">#1E2D45</color>
+
+    <!-- Divider -->
+    <color name="divider_color">#1E2D45</color>
+
+    <!-- Legacy aliases -->
+    <color name="background_white">#0D1117</color>
+    <color name="card_background">#161B27</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="error_red">#FF5252</color>
+</resources>

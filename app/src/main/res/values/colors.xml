@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ── Brand / Accent (sama di semua mode) ── -->
+    <color name="primary_blue">#1565C0</color>
+    <color name="primary_blue_dark">#0D47A1</color>
+    <color name="primary_blue_light">#1976D2</color>
+    <color name="accent_blue">#2196F3</color>
+    <color name="accent_blue_light">#64B5F6</color>
+
+    <!-- Error -->
+    <color name="error_red">#D32F2F</color>
+    <color name="error_red_dark">#FF5252</color>
+
+    <!-- Pure whites/blacks — referensi literal -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- ══════════════════════════════════════════
+         LIGHT MODE (default)
+    ══════════════════════════════════════════ -->
+
+    <!-- Backgrounds -->
+    <color name="bg_screen">#F0F4FF</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_input">#FFFFFF</color>
+    <color name="bg_result_row">#EFF3FF</color>
+    <color name="bg_header">#1565C0</color>
+
+    <!-- Segmented button -->
+    <color name="segment_container_bg">#FFFFFF</color>
+    <color name="segment_container_border">#1565C0</color>
+    <color name="segment_selected_bg">#1565C0</color>
+    <color name="segment_selected_text">#FFFFFF</color>
+    <color name="segment_unselected_text">#1565C0</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#546E7A</color>
+    <color name="text_hint">#90A4AE</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_accent">#1565C0</color>
+
+    <!-- Input field strokes -->
+    <color name="input_stroke_default">#B0BEC5</color>
+    <color name="input_stroke_focused">#1565C0</color>
+
+    <!-- Result rows -->
+    <color name="result_label_color">#546E7A</color>
+    <color name="result_value_color">#0D47A1</color>
+    <color name="result_divider_color">#DDEAFF</color>
+    <color name="result_row_border">#DDEAFF</color>
+
+    <!-- Card border -->
+    <color name="card_stroke">#E3EAFF</color>
+
+    <!-- Status bar / nav bar -->
+    <color name="status_bar_color">#0D47A1</color>
+    <color name="nav_bar_color">#F0F4FF</color>
+
+    <!-- Button -->
+    <color name="btn_text_color">#FFFFFF</color>
+    <color name="btn_ripple_color">#0D47A1</color>
+
+    <!-- Dot indicator -->
+    <color name="dot_active">#1565C0</color>
+    <color name="dot_inactive">#B0BEC5</color>
+
+    <!-- Divider -->
+    <color name="divider_color">#E3EAFF</color>
+
+    <!-- Legacy aliases -->
+    <color name="background_white">#F0F4FF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="primary_blue_darker">#0D47A1</color>
+</resources>

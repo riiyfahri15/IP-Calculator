@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_bg_card_dark.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\bg_card_dark.xml"
+    },
+    {
+        "merged": "com.ipcalc.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.ipcalc.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\layout_item_result_row.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\layout\\item_result_row.xml"
+    },
+    {
+        "merged": "com.ipcalc.app-merged_res-31:/drawable_ic_dark_mode.xml.flat",
+        "source": "com.ipcalc.app-main-33:/drawable/ic_dark_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\mipmap-mdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_bg_dot_indicator.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\bg_dot_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_bg_card_glow.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\bg_card_glow.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_bg_dot_inactive.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\bg_dot_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_divider_horizontal.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\divider_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\mipmap-mdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_bg_header_gradient.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\bg_header_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_bg_segment_container.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\bg_segment_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\mipmap-hdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_bg_segment_unselected.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\bg_segment_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_ic_network.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\ic_network.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\mipmap-xhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_bg_result_row.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\bg_result_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_bg_calculate_button.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\bg_calculate_button.xml"
+    },
+    {
+        "merged": "com.ipcalc.app-merged_res-31:/drawable_bg_theme_toggle.xml.flat",
+        "source": "com.ipcalc.app-main-33:/drawable/bg_theme_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable_bg_segment_selected.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable\\bg_segment_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\drawable-night_bg_header_gradient.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\drawable-night\\bg_header_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.ipcalc.app-merged_res-31:/drawable_ic_light_mode.xml.flat",
+        "source": "com.ipcalc.app-main-33:/drawable/ic_light_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\riiyfhr\\.gradle\\daemon\\8.2\\com.ipcalc.app-main-33:\\mipmap-xxhdpi\\ic_launcher.xml"
+    }
+]
